@@ -1,8 +1,8 @@
 ![Node](./assets/node.png)
 
-# CLI(Command Line Interface) APP
+## CLI(Command Line Interface) APP
 
-A [Node.js](https://nodejs.org/en/) based cli app that provides user with supproted commands. This app is designed using inbuilt modules only.
+A [Node.js](https://nodejs.org/en/) based cli app that provides user with supported commands. This app is designed using inbuilt modules only.
 
 ## Setup locally
 
