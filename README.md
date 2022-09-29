@@ -21,6 +21,6 @@ A [Node.js](https://nodejs.org/en/) based cli app that provides user with suppor
 * list logs : show a list of all the log files available to be read (compressed only) 
 * url --{host, port, protocol} {url} : shows host, port, protocol of url 
 
-## Documentation
+## References
 
-[Node.js](https://nodejs.org/en/)
+[Node.js](https://nodejs.org/api/)
